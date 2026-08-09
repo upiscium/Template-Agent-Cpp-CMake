@@ -1,2 +1,3 @@
-# Template-Agent-Cpp-CMake
-Generated Agent-ready C++/CMake template. Source: upiscium/Templates; do not edit directly.
+# @@PROJECT_NAME@@
+
+Agent-ready C++23/CMake project using Ninja, Clang tooling, CTest, Nix, Just, and the shared Agent Core.
